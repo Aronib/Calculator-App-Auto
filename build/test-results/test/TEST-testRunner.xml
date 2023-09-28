@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-09-28T13:57:11" hostname="AR" time="9.136">
+  <properties/>
+  <testcase name="doMul" classname="testRunner" time="4.58"/>
+  <testcase name="doDiv" classname="testRunner" time="3.847"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
